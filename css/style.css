@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container{
+  text-align: center;
+  background-color: purple;
+  width: 70%;
+  margin: auto;
+  padding:40px;
+}
+
+.row.form{
+  padding: 20px;
+  margin: auto;
+  width: 90%;
+  height: 100px;
+  background-color: #ddd;
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+  border-radius: 10px;
+}
+
+.row-table{
+  margin: auto;
+  width: 90%;
+  height: 100px;
+  background-color: #ddd;
